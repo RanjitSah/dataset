@@ -1,0 +1,7 @@
+Order_Item_Data_Set:
+
+Order_Item_ID, Order_Item_Order_ID(primary key of OrderID), product ID, Quantity, Sub_Total(Quantiy*price), price
+
+Order_Data_Set:
+
+Order_ID, Order_Date, Customer_ID, Order_Status

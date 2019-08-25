@@ -1,0 +1,12 @@
+1. Get Number of records ny status (using order data)
+2. Get number of orders per month (using oders data)
+3. Get those order items where order item subtotal is not equal to
+	order item quality multiplied by order item product price
+4. Get all those order details from orders where there are no corresponding order items
+5. Get all those products whose daily revenue is more than 1000
+	we need order_date, product_id and product_revenue
+	
+	
+	
+	
+Create a fucntion to get daily revenue using orders which are completed or closed and order items
