@@ -7,6 +7,8 @@
 	we need order_date, product_id and product_revenue
 	
 	
-	
+Create a function to get revenue for a given order_id (from order_items)
+
+ Create a function to get revenue for each order_id (from order_items)
 	
 Create a fucntion to get daily revenue using orders which are completed or closed and order items
